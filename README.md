@@ -10,7 +10,7 @@
 
 - DataSet Link: https://drive.google.com/file/d/1AYdHUaTCOZUOgZDWoxlPgmKaH9WU4AJF/view
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/SystemTron_AI_ML_Virtual_Internship/tree/main/Task_1%3A%20Diabetes%20Prediction%20using%20ML
 
 -------------------------------------------------------------------------------------------
 
