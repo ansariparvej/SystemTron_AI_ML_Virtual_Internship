@@ -1,1 +1,0 @@
-## SystemTron_AI_ML_Virtual_Internship
