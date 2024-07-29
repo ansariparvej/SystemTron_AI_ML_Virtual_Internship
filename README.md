@@ -18,11 +18,11 @@
 
 ## Task 2 - 
 
-### Problem Solution:
+### Problem Solution: 
 
-- DataSet Link: 
+- DataSet Link: https://drive.google.com/file/d/17wcOi_UoPklpR2R2a2OPv9RjOvCnLxWj/view
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/SystemTron_AI_ML_Virtual_Internship/tree/main/Task_2%20%3A%20Car%20Price%20Prediction%20with%20ML
 
 -------------------------------------------------------------------------------------------
 
