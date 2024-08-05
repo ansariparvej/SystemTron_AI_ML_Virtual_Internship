@@ -16,7 +16,7 @@
 
 ## Week_2_Project:
 
-## Task 2 - 
+## Task 2 - Car Price Prediction With Machine Learning.
 
 ### Problem Solution: 
 
@@ -28,13 +28,13 @@
 
 ## Week_3_Project:
 
-## Task 3 - 
+## Task 3 - IPL Winning Team Prediction using ML with Streamlit Application.
 
 ### Problem Solution:
 
-- DataSet Link: 
+- DataSet Link: https://drive.google.com/file/d/16Q_kO7NvitDnHOv37yqU6GrrvyvF-ISW/view
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/SystemTron_AI_ML_Virtual_Internship/tree/main/Task_3%20%3A%20IPL%20Winning%20Team%20Prediction%20with%20Application
 
 -------------------------------------------------------------------------------------------
 
