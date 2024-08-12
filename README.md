@@ -40,12 +40,12 @@
 
 ## Week_4_Project:
 
-## Task 4 - 
+## Task 4 - Breast Cancer Detection using Deep Learning.
 
 ### Problem Solution:
 
-- DataSet Link: 
+- DataSet Link: https://drive.google.com/drive/folders/1UXH9SKM4LA04lI0QnoktaD-jGyJL7w1j 
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/SystemTron_AI_ML_Virtual_Internship/tree/main/Task_4%20%3A%20Breast%20Cancer%20Detection%20using%20Deep%20Learning
 
 -------------------------------------------------------------------------------------------
